@@ -5,7 +5,7 @@ I’m **Suraj**, an AI/ML student and developer based in India.
 I design, build, and break things (in that order… sometimes).  
 If an idea pops into my head, chances are I’ll prototype it at 3 AM and figure out the bugs later.
 
-My main tech stack is **Python, C, SQL, JavaScript, and Godot**.  
+My main tech stack is **Python, Html, JS, CSS and Godot ENGINE(GD Script)**.  
 I love working on **AI/ML, game development, and web projects**.  
 Currently learning **DSA** and diving deeper into **3D game dev**.
 
